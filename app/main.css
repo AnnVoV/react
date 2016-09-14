@@ -1,0 +1,12 @@
+button {
+    width:40px;
+    padding:0;
+}
+
+.m-button {
+    position:absolute;
+    display:inline-block;
+    left:50%;transform:translateX(-50%);
+    width:400px;
+    text-align:center;
+}
